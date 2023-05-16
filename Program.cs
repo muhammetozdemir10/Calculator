@@ -103,7 +103,7 @@
             App();
 
             // COMPLETE: Kullaniciya baska bir islem yapmak istiyorsa kodu birdaha calistir
-            // TODO: Kullanici sayi yerine harf girerse hatali bir mesaj versin ve bir kez daha girmesini istesin yada bastan islemi alsin.
+            // COMPLETE: Kullanici sayi yerine harf girerse hatali bir mesaj versin ve bir kez daha girmesini istesin yada bastan islemi alsin.
 
 
         }
