@@ -31,6 +31,7 @@
             return a / b;
         }
 
+        // Greeting = Karsilama
         static void Greeting()
         {
             Console.ForegroundColor = ConsoleColor.DarkRed;
@@ -40,6 +41,7 @@
         }
 
 
+        // Application = Uygulama
         static void App()
         {
             Console.WriteLine("Lutfen yapmak istediginiz islemi seciniz");
@@ -82,6 +84,7 @@
                 //Console.ForegroundColor = ConsoleColor.DarkRed;
                 //Console.WriteLine(ex);
                 //Console.ResetColor();
+                Console.Clear();
                 Console.WriteLine("Bir hata olustu lutfen tekrardan deneyiniz.");
                 App();
             }
